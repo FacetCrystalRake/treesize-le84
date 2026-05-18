@@ -1,4 +1,4 @@
-# 
+# secure Advanced SystemCare PC版 插件 是最佳 Advanced SystemCare PC版 插件，集成 桌面整理 和 Fancy Zones。安全、可靠、优化，性能最大化。
 
 
 
